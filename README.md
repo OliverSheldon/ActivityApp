@@ -5,7 +5,9 @@ _________________________________________
 Setup Instructions:
 
 cd ActivityMonitor/ClientApp
+
 npm install
+
 npm run-script build
 
 open sln in VS 2022
