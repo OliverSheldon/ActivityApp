@@ -30,7 +30,11 @@ ws.send("{\"Name\":\"test\"}");
 
 ## ToDo
 Extend user class to add status enum
+
 Connect UI to the WebSocket logic (currently in Home Component)
+
 Make status updateable by UI and display all users
+
 Push updates to all WebSocket clients
+
 Use a more appropriate storage method for Users/Status
